@@ -36,3 +36,5 @@ Microservices are often recommended for large, complex apps like Netflix or Spot
 ![Client to Microservices Communication](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/direct-client-to-microservice-communication-versus-the-api-gateway-pattern)
 
 Repository created for WADS Week 1 lab assignment.
+
+This change was made on a separate Git branch.
