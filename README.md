@@ -37,4 +37,4 @@ Microservices are often recommended for large, complex apps like Netflix or Spot
 
 Repository created for WADS Week 1 lab assignment.
 
-This change was made on a separate Git branch.
+Base commit.
